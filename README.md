@@ -4,6 +4,7 @@
 http://localhost:8082/products
 
 Sample JSON data for input:
+
     {
         "inventoryId": 1,
         "experienceDetails": "Mickey mouse doll for kids",
