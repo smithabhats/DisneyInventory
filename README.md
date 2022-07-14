@@ -1,5 +1,7 @@
 # DisneyInventory
 
+Endpoints for the REST webservices, deployed on your local environment
+
 1. POST request for saving a product:
 http://localhost:8082/products
 
